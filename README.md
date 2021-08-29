@@ -1,6 +1,8 @@
 # pragmatism-AI
 AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 
+대부분의 모델들은 구현 보다는 'Inference'에 초점을 맞추고 있습니다.
+
 ## Course
 ### Multi Layer Perceptron & Hyper Parameter Optimization
 * [MLP](https://github.com/silverstar0727/pragmatism-AI/blob/main/DLbasic-HPO/MLP(MNIST).ipynb)
@@ -22,7 +24,7 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
   - Faster RCNN
 - one-stage detector
   - SSD
-  - Yolo v1, v2, v3
+  - Yolo v1, v2, v3 (Ultralytics Yolo)
   - RetinaDet
 
 #### Image Segmentation
