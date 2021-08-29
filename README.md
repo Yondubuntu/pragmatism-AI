@@ -7,6 +7,8 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 * [HPO 기초 적용](https://github.com/silverstar0727/pragmatism-AI/blob/main/DLbasic-HPO/W%26B_keras_sweep.ipynb)
 * [Cifar10 데이터 셋에 HPO 적용](https://github.com/silverstar0727/pragmatism-AI/blob/main/DLbasic-HPO/MLP_HPO(cifar10).ipynb)
 
+- - -
+
 ### Computer Vision
 #### Image Classification
 - VGG
