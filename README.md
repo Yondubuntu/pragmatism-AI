@@ -42,15 +42,21 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
   - Summarization
   - Text Generization
 
-### Deploy Models(with Docker)
+### Model Deployment(with Docker)
 - Tensorflow Serving
 - Flask REST API
 - Dockerizing REST API
 - GCP Cloud Run(serverless deployment)
+- Firebase(for Mobile)
 
 ### ML Pipeline in GCP
 - Dockerizing each ML tasks
+- Github Actions
 - Kubeflow
 - GCP Vertex AI
 
 ### Continuous Learning with CI/CD Tools
+- Tensorflow Extended
+  - Tensorflow Data Validation
+  - Tensorflow Model Analysis
+- GitLab CI
