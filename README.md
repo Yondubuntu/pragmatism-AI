@@ -42,6 +42,8 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 - Attention mechanism
 - Transformer
 - HuggingFace(+Finetuning)
+  - pipeline
+  - customizing
   - Classification
   - Summarization
   - Text Generization
@@ -50,7 +52,7 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 
 ### Model Deployment(with Docker)
 - Tensorflow Serving
-- Flask REST API
+- [Flask REST API](https://github.com/silverstar0727/pragmatism-AI/tree/main/flask_api)
 - Dockerizing REST API
 - GCP Cloud Run(serverless deployment)
 - Firebase(for Mobile)
@@ -61,13 +63,15 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 ### ML Pipeline in GCP
 - Dockerizing each ML tasks
 - Github Actions
-- Kubeflow
-- GCP Vertex AI
+- [Kubeflow](https://github.com/silverstar0727/ML-Pipeline-Tutorial/tree/main/kubeflow-pipeline)
+- [GCP Vertex AI](https://github.com/silverstar0727/ML-Pipeline-Tutorial/tree/main/vertex-ai-pipeline)
 
 - - -
 
 ### Continuous Learning with CI/CD Tools
 - Tensorflow Extended
-  - Tensorflow Data Validation
+  - [Tensorflow Transform](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline/tfx-components/TFT_tutorial.ipynb)
+  - [Tensorflow Data Validation](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline/tfx-components/TFDV_tutorial.ipynb)
   - Tensorflow Model Analysis
+  - [Pipeline](https://github.com/silverstar0727/ML-Pipeline-Tutorial/tree/main/tfx-pipeline)
 - GitLab CI
