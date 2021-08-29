@@ -11,8 +11,8 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 
 ### Computer Vision
 #### Image Classification
-- VGG
-- ResNet
+- [VGG](https://github.com/silverstar0727/pragmatism-AI/blob/main/CV/ImageClassification/VGG(cifar10).ipynb)
+- [ResNet](https://github.com/silverstar0727/pragmatism-AI/blob/main/CV/ImageClassification/ResNet(cifar100).ipynb)
 - MobileNet
 
 #### Object Detection
