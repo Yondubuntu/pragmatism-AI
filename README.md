@@ -33,6 +33,9 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 - ViT(Vision Transformer)
 - MLP-Mixer
 
+
+- - -
+
 ### Natural Language Processing
 - RNN
 - LSTM
@@ -43,6 +46,8 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
   - Summarization
   - Text Generization
 
+- - -
+
 ### Model Deployment(with Docker)
 - Tensorflow Serving
 - Flask REST API
@@ -50,11 +55,16 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 - GCP Cloud Run(serverless deployment)
 - Firebase(for Mobile)
 
+
+- - -
+
 ### ML Pipeline in GCP
 - Dockerizing each ML tasks
 - Github Actions
 - Kubeflow
 - GCP Vertex AI
+
+- - -
 
 ### Continuous Learning with CI/CD Tools
 - Tensorflow Extended
