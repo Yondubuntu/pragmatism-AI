@@ -45,7 +45,7 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 ### Deploy Models(with Docker)
 - Tensorflow Serving
 - Flask REST API
-- Dockerizing
+- Dockerizing REST API
 - GCP Cloud Run(serverless deployment)
 
 ### ML Pipeline in GCP
