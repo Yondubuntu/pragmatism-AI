@@ -25,7 +25,7 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 - one-stage detector
   - SSD
   - Yolo v1, v2, v3 (Ultralytics Yolo)
-  - RetinaDet
+  - EfficientDet
 
 #### Image Segmentation
 - U-Net
