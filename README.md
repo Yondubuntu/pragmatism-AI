@@ -70,10 +70,13 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 
 - - -
 
-### Continuous Learning with CI/CD Tools
+### CI/CD Tools & Others
 - Tensorflow Extended
   - [Tensorflow Transform](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline/tfx-components/TFT_tutorial.ipynb)
   - [Tensorflow Data Validation](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline/tfx-components/TFDV_tutorial.ipynb)
   - Tensorflow Model Analysis
   - [Pipeline](https://github.com/silverstar0727/ML-Pipeline-Tutorial/tree/main/tfx-pipeline)
 - GitLab CI
+- mlflow(model registry)
+- bentoml(model )
+- ML with kubernetes Job
