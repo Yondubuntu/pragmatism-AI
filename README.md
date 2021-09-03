@@ -78,5 +78,5 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
   - [Pipeline](https://github.com/silverstar0727/ML-Pipeline-Tutorial/tree/main/tfx-pipeline)
 - GitLab CI
 - mlflow(model registry)
-- bentoml(model )
+- bentoml
 - ML with kubernetes Job
