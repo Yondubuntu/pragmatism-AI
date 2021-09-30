@@ -55,7 +55,7 @@ AI의 이론보다는 활용에 중심을 두는 '실용주의 AI'입니다.
 - Tensorflow Serving
 - [Flask REST API](https://github.com/silverstar0727/pragmatism-AI/tree/main/flask_api) 
   - [Dockerizing REST API](https://github.com/silverstar0727/pragmatism-AI/tree/main/flask_api/dockerizing)
-  - [Kubernetes Loadbalancer]()
+  - [Kubernetes Loadbalancer](https://github.com/silverstar0727/pragmatism-AI/tree/main/flask_api/k8s-loadbalacer)
   - GCP Cloud Run(serverless deployment)
 - Firebase(for Mobile)
 
